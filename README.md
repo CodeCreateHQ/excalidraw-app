@@ -1,13 +1,3 @@
-# Excalidraw App
-
-Virtual whiteboard for sketching hand-drawn like diagrams.
-
-## Aim
-
-Aim of this project is to make excalidraw more accesible to general public by straightawy providing the desktop app.
-
-## What is Excalidraw?
-
 <div align="center" style="display:flex;flex-direction:column;">
   <a href="https://excalidraw.com">
     <img width="540" src="https://github.com/excalidraw/excalidraw/blob/master/public/og-image-sm.png" alt="Excalidraw logo: Sketch handrawn like diagrams." />
@@ -23,6 +13,14 @@ Aim of this project is to make excalidraw more accesible to general public by st
   </p>
   <p>Ask questions or hang out on community server <a target="_blank" href="https://discord.gg/UexuTaE">discord.gg/UexuTaE</a>.</p>
 </div>
+
+# Excalidraw App
+
+Virtual whiteboard for sketching hand-drawn like diagrams.
+
+## Aim
+
+Aim of this project is to make excalidraw more accesible to general public by straightawy providing the desktop app.
 
 ## Supporting Excalidraw
 
