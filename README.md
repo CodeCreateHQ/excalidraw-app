@@ -10,7 +10,7 @@ Aim of this project is to make excalidraw more accesible to general public by st
 
 <div align="center" style="display:flex;flex-direction:column;">
   <a href="https://excalidraw.com">
-    <img width="540" src="./public/og-image-sm.png" alt="Excalidraw logo: Sketch handrawn like diagrams." />
+    <img width="540" src="https://github.com/excalidraw/excalidraw/blob/master/public/og-image-sm.png" alt="Excalidraw logo: Sketch handrawn like diagrams." />
   </a>
   <h3>Virtual whiteboard for sketching hand-drawn like diagrams.<br>Collaborative and end-to-end encrypted.</h3>
   <p>
